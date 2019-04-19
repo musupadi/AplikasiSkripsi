@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AplikasiSkripsi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="detail_developer">\t Nama Saya adalah Muhammad Supriyadi,Saya adalah seorang Developer Android,
+        Desktop dan juga Web. Aplikasi ini saya buat untuk meningkatkan pengetahuan umum tentang para pahlawan.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="action_list">List</string>
+    <string name="action_grid">Grid</string>
+    <string name="action_cardview">CardView</string>
+</resources>
